@@ -1,5 +1,7 @@
 # Cyberbullying-Text-Classification-using-ML-and-DL
 
+[!image](https://www.parents.com/thmb/tkzQwjCMC7W2BzGR5rSUVDU8FU0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/what-are-the-effects-of-cyberbullying-460558-5b4a9d776bee4efea38cdfa9158a2ded.png)
+
 ## Project Overview:
 - This project focuses on the automatic detection of cyber-bullying using a dataset compiled from various sources.
 
